@@ -1,0 +1,361 @@
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/dcismdy64.ini
+.......T.  c /opt/dell/srvadmin/iSM/etc/ini/dcismlauncher.ini
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/dcismlcl.ini
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/dcos2idrac.ini
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/dcsnmpget.ini
+.M.......  c /opt/dell/srvadmin/iSM/etc/ini/iDRACLauncher.desktop
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/software-package.ini
+S.5....T.  c /opt/dell/srvadmin/iSM/etc/ini/supportAssistGenericLog.ini
+S.5....T.    /opt/dell/srvadmin/iSM/var/lib/.ipc/.lxsuptIPCini
+S.5....T.  c /etc/dnf/dnf.conf
+.M.......  g /var/log/hawkey.log
+S.5....T.  c /etc/bashrc
+S.5....T.  c /etc/profile
+.M....G..  g /var/log/lastlog
+....L....  c /etc/nsswitch.conf
+S.5....T.  c /var/lib/unbound/root.key
+....L....  c /etc/pam.d/fingerprint-auth
+....L....  c /etc/pam.d/password-auth
+....L....  c /etc/pam.d/postlogin
+....L....  c /etc/pam.d/smartcard-auth
+....L....  c /etc/pam.d/system-auth
+S.5....T.  c /etc/security/limits.conf
+S.5....T.  c /etc/pam.d/login
+.M.......  c /etc/machine-id
+.M.......  g /var/log/btmp
+.M....G..  g /var/log/journal
+.....UG..  g /var/run/avahi-daemon
+S.5....T.  c /etc/chrony.conf
+.M.......  g /etc/udev/hwdb.bin
+.M.......  g /var/lib/systemd/random-seed
+S.5....T.  c /etc/plymouth/plymouthd.conf
+.M.......  g /var/lib/plymouth/boot-duration
+.......T.  c /etc/selinux/targeted/contexts/customizable_types
+S.5....T.  c /etc/selinux/targeted/contexts/files/file_contexts.local
+S.5....T.  c /etc/selinux/targeted/contexts/files/file_contexts.subs
+missing     /run/gluster
+S.5....T.  c /etc/sane.d/epsonds.conf
+.M.......    /var/lib/fprint
+.M.......  g /var/lib/colord/mapping.db
+.M.......  g /var/lib/colord/storage.db
+..5....T.  c /etc/dnf/plugins/debuginfo-install.conf
+SM5....T.  c /etc/rhsm/rhsm.conf
+.M.......  g /etc/cni/net.d
+.M.......  g /etc/cni/net.d/87-podman-bridge.conflist
+S.5....T.  c /etc/sudoers
+S.5....T.  c /etc/pcp/pmcd/pmcd.conf
+S.5....T.  c /etc/sysconfig/pmlogger
+S.5....T.  c /etc/cups/cups-browsed.conf
+S.5....T.  c /etc/dnf/automatic.conf
+.......T.    /boot/efi/EFI/BOOT/BOOTX64.EFI
+.......T.    /boot/efi/EFI/BOOT/fbx64.efi
+.......T.    /boot/efi/EFI/redhat/BOOTX64.CSV
+.......T.    /boot/efi/EFI/redhat/mmx64.efi
+.......T.    /boot/efi/EFI/redhat/shim.efi
+.......T.    /boot/efi/EFI/redhat/shimx64-redhat.efi
+.......T.    /boot/efi/EFI/redhat/shimx64.efi
+.M.......  c /boot/grub2/grub.cfg
+.......T.    /boot/efi/EFI/redhat/grubx64.efi
+.M.......  c /boot/grub2/grub.cfg
+S.5....T.  c /etc/firewalld/firewalld.conf
+.......T.    /boot/efi/EFI/redhat/gcdx64.efi
+missing     /usr/lib64/python3.9/site-packages/cryptography
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/PKG-INFO
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/SOURCES.txt
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/dependency_links.txt
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/not-zip-safe
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/requires.txt
+missing     /usr/lib64/python3.9/site-packages/cryptography-36.0.1-py3.9.egg-info/top_level.txt
+missing     /usr/lib64/python3.9/site-packages/cryptography/__about__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/__about__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/__about__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/exceptions.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/exceptions.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/fernet.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/fernet.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/utils.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/__pycache__/utils.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/exceptions.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/fernet.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__pycache__/_oid.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/__pycache__/_oid.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/_oid.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__pycache__/interfaces.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/__pycache__/interfaces.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/interfaces.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/aead.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/aead.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/backend.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/backend.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ciphers.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ciphers.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/cmac.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/cmac.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/decode_asn1.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/decode_asn1.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/dh.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/dh.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/dsa.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/dsa.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ec.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ec.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ed25519.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ed25519.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ed448.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/ed448.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/encode_asn1.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/encode_asn1.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/hashes.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/hashes.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/hmac.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/hmac.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/poly1305.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/poly1305.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/rsa.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/rsa.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/utils.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/utils.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x25519.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x25519.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x448.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x448.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x509.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/__pycache__/x509.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/aead.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/backend.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/ciphers.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/cmac.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/decode_asn1.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/dh.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/dsa.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/ec.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/ed25519.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/ed448.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/encode_asn1.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/hashes.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/hmac.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/poly1305.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/rsa.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/utils.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/x25519.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/x448.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/backends/openssl/x509.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_openssl.abi3.so
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust.abi3.so
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust/__init__.pyi
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust/asn1.pyi
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust/ocsp.pyi
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/_rust/x509.pyi
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/_conditional.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/_conditional.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/binding.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/__pycache__/binding.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/_conditional.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/bindings/openssl/binding.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_asymmetric.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_asymmetric.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_cipheralgorithm.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_cipheralgorithm.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_serialization.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/_serialization.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/cmac.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/cmac.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/constant_time.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/constant_time.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/hashes.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/hashes.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/hmac.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/hmac.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/keywrap.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/keywrap.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/padding.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/padding.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/poly1305.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/__pycache__/poly1305.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/_asymmetric.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/_cipheralgorithm.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/_serialization.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/dh.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/dh.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/dsa.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/dsa.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ec.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ec.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ed25519.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ed25519.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ed448.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/ed448.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/padding.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/padding.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/rsa.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/rsa.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/types.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/types.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/utils.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/utils.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/x25519.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/x25519.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/x448.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/__pycache__/x448.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/dh.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/dsa.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/ec.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/ed25519.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/ed448.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/padding.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/rsa.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/types.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/utils.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/x25519.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/asymmetric/x448.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/aead.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/aead.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/algorithms.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/algorithms.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/base.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/base.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/modes.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/__pycache__/modes.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/aead.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/algorithms.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/base.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/ciphers/modes.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/cmac.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/constant_time.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/hashes.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/hmac.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/concatkdf.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/concatkdf.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/hkdf.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/hkdf.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/kbkdf.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/kbkdf.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/pbkdf2.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/pbkdf2.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/scrypt.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/scrypt.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/x963kdf.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/__pycache__/x963kdf.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/concatkdf.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/hkdf.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/kbkdf.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/pbkdf2.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/scrypt.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/kdf/x963kdf.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/keywrap.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/padding.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/poly1305.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/base.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/base.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/pkcs12.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/pkcs12.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/pkcs7.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/pkcs7.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/ssh.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/__pycache__/ssh.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/base.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/pkcs12.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/pkcs7.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/serialization/ssh.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/hotp.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/hotp.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/totp.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/__pycache__/totp.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/hotp.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/hazmat/primitives/twofactor/totp.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/py.typed
+missing     /usr/lib64/python3.9/site-packages/cryptography/utils.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__init__.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/__init__.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/__init__.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/base.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/base.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/certificate_transparency.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/certificate_transparency.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/extensions.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/extensions.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/general_name.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/general_name.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/name.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/name.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/ocsp.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/ocsp.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/oid.cpython-39.opt-1.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/__pycache__/oid.cpython-39.pyc
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/base.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/certificate_transparency.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/extensions.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/general_name.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/name.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/ocsp.py
+missing     /usr/lib64/python3.9/site-packages/cryptography/x509/oid.py
+S.5....T.  c /root/.bashrc
+....L....    /usr/bin/python
+missing   c /etc/mongod.conf
+missing     /run/mongodb
+missing     /var/lib/mongo
+missing     /var/log/mongodb
+missing   c /var/log/mongodb/mongod.log
